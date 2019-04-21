@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from fly_bbs.extensions import mongo
 from fly_bbs.models import Page
 from bson.objectid import ObjectId

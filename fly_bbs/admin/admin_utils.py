@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from bson import ObjectId
 from .admin_config import admin_permissions
 

@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from flask import Blueprint, render_template,flash, request,session,jsonify, url_for, current_app, redirect, abort
 from fly_bbs.extensions import oauth_weibo
 

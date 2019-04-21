@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from fly_bbs.extensions import mongo
 import os
 from werkzeug.security import generate_password_hash

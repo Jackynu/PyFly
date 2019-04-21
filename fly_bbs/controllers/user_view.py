@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from flask import Blueprint, render_template,flash, request,session,jsonify, url_for, current_app, redirect, abort
 from flask_login import login_user, logout_user, login_required, current_user
 from fly_bbs import utils,forms, models, db_utils, code_msg

@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from wtforms import form, fields
 from wtforms.validators import DataRequired, Email, EqualTo,Length
 from flask_admin.contrib.pymongo import ModelView, filters

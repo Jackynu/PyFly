@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from flask import Blueprint, render_template,flash, request, url_for, current_app, session, jsonify, abort, redirect
 from fly_bbs import db_utils, utils, forms, models, code_msg
 from fly_bbs.extensions import mongo, whoosh_searcher, cache

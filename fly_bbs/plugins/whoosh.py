@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from whoosh.index import create_in, open_dir, exists_in
 from whoosh import writing
 import os

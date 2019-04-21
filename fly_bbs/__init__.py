@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from flask import Flask
 from fly_bbs.controllers import config_blueprint
 from .custom_functions import init_func

@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from .bbs_front import bbs_index
 from .user_view import user_view
 from .post_collection import post_collection

@@ -1,3 +1,6 @@
+# coding=utf-8
+
+
 from flask_mail import Message
 from fly_bbs.config import MailConfig
 import fly_bbs

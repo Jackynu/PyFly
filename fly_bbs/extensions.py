@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from flask_mail import Mail
 from flask_admin import Admin
 from flask_login import LoginManager

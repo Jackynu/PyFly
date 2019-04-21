@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from .db_utils import get_list,get_option,get_page, find_one
 from datetime import datetime, timedelta
 

@@ -1,3 +1,4 @@
+# coding=utf-8
 from fly_bbs import create_app
 from flask_script import Manager
 import os
